@@ -1,13 +1,20 @@
-## Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Juan Vega</h1>
+
+### 👨‍💻 About Me :
+-  I'm Full Stack developer / .Net - Angular
+  
+-  Each day, I pick up something new that makes me better
+
+-  Email: juanguativa07@gmail.com
+
+-  Linkedin: https://www.linkedin.com/in/jdvegadev/
 
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/JDVega6">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JDVega6&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JDVega6&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Galaxy-Cinemas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 <!--
